@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	
 }
 
 ol, ul {
@@ -84,7 +85,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Shadows Into Light', cursive;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
