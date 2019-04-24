@@ -503,12 +503,15 @@ button,
       background-size: cover;
       background-position: center center;
     }
+    
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/IMG_3509.JPG");
+      /* background-color: #81918E; */
+      /* background-image: url("../../images/IMG_3509.JPG"); */
+      /* background-image: url("/Users/chance/Desktop/theFuture/codeFellows/cf301/lab4/Portfolio/public/images/Chance 028.mp4"); */
     }
-
+   
+    }
     #main > section.two {
       background-color: #f5fafa;
     }
