@@ -40,7 +40,7 @@
 						return;
 
 				// Prevent default.
-					e.preventDefault();
+					// e.preventDefault();
 
 				// Deactivate all links.
 					$nav_a.removeClass('active');
